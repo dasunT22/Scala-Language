@@ -1,0 +1,20 @@
+Comparison of Java and Scala:
+
+1. Language Paradigms:
+Java: Primarily an object-oriented programming (OOP) language. It supports functional programming to some extent.
+Scala: A hybrid language that seamlessly integrates both object-oriented and functional programming paradigms.
+
+
+2. Syntax:
+Java: More verbose syntax.
+int i = 2;
+int j = 2;
+Scala: Concise syntax.
+var i, j = 2
+
+
+3. Type Inference:
+Java: Requires explicit type declaration for variables.
+int m = 5;
+Scala: Has powerful type inference capabilities.
+val m = 5;
